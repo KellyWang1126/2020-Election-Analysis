@@ -1,4 +1,4 @@
-# 2020-Election-Analysis
+# 2020 Election Analysis
 
 There is no better time than now to work on the 2020 United States presidential election data! Despite that the 2016 presidential election came as a big surprise to many, Biden's victory in the 2020 presidential election has been widely predicted before Nov 3rd.
 
